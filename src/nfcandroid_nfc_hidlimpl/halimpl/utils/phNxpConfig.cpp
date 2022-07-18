@@ -52,7 +52,7 @@ const char alternative_config_path[] = "/data/nfc/";
 const char alternative_config_path[] = CONFIG_PATH;
 #endif
 
-const char transport_config_path[] = "/etc/";
+const char transport_config_path[] = "/etc/libnfc-nci/";
 
 //#define config_name             "libnfc-nxp.conf"
 //#define config_base       "libnfc-nxp-"
